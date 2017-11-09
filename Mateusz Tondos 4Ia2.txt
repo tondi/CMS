@@ -1,11 +1,12 @@
 
-Strona g³ówna projektu: tondi.pl/CMS/
+Strona g³ówna projektu: https://tondi.pl/CMS/
 
 Pliki Ÿród³owe: w katalogu CMS
+ konfiguracja po³¹czenia z baz¹: CMS/config.php
 
-Projekt zak³ada rejestracjê, ale w bazie jest ju¿ 
-kilku przyk³adowych userów. Przyk³adowy u¿ytkownik:
-login: andrzej
+Projekt posiada rejestracjê, ale w bazie jest ju¿ 
+kilku przyk³adowych userów :) Przyk³adowy u¿ytkownik:
+login: mateusz
 has³o: 123
 
-Wyeksportowany plik bazy w g³ównym katalogu
+Wyeksportowany plik bazy: w g³ównym katalogu
