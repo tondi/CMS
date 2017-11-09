@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35186783-df31-429e-84ea-a970c8753a5e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/417864print_trimmed_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/BB-King-airsoft-BBs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/Grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/animacja.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/ciastko.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/czary.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/ic_keyboard_arrow_left_black_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/ic_keyboard_arrow_right_black_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/ic_photo_camera_black_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/krzyzyk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/logo3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/mati.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/ogien.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rose-main.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rys1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/tatry-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/tlo-wzor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/tlo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/ukĹ‚ad_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/add.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/create.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/remove.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templates_c/1363f4962e13aba1b3daf5280f06a96927ebed7e_0.file.add.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templates_c/63ef078ccfe0afe6dd5aad8c3dda3bc5e8ca7591_0.file.add.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/templates_c/c2081c900bdd4f749b5fee60445e18fe89013b4b_0.file.articles.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/add.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/edit.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates_c/d4fd8b05e227ded579bace66916136b03fdcb3dd_0.file.articles.tpl.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partials/head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/partials/navbar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/article.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php/database.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/signin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/signup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/signin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/signout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/signup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/article.tpl" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/assets/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/assets/jquery-3.2.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/articles.php" afterPath="$PROJECT_DIR$/src/articles.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/Autoloader.php" afterPath="$PROJECT_DIR$/src/smarty/Autoloader.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/Smarty.class.php" afterPath="$PROJECT_DIR$/src/smarty/Smarty.class.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/SmartyBC.class.php" afterPath="$PROJECT_DIR$/src/smarty/SmartyBC.class.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/debug.tpl" afterPath="$PROJECT_DIR$/src/smarty/debug.tpl" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/block.textformat.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/block.textformat.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.counter.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.counter.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.cycle.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.cycle.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.fetch.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.fetch.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.html_checkboxes.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.html_checkboxes.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.html_image.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.html_image.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.html_options.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.html_options.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.html_radios.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.html_radios.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.html_select_date.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.html_select_date.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.html_select_time.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.html_select_time.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.html_table.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.html_table.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.mailto.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.mailto.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/function.math.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/function.math.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifier.capitalize.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifier.capitalize.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifier.date_format.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifier.date_format.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifier.debug_print_var.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifier.debug_print_var.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifier.escape.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifier.escape.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifier.regex_replace.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifier.regex_replace.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifier.replace.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifier.replace.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifier.spacify.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifier.spacify.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifier.truncate.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifier.truncate.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.cat.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.cat.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.count_characters.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.count_characters.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.count_paragraphs.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.count_paragraphs.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.count_sentences.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.count_sentences.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.count_words.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.count_words.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.default.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.default.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.escape.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.escape.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.from_charset.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.from_charset.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.indent.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.indent.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.lower.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.lower.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.noprint.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.noprint.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.string_format.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.string_format.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.strip.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.strip.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.strip_tags.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.strip_tags.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.to_charset.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.to_charset.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.unescape.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.unescape.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.upper.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.upper.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/modifiercompiler.wordwrap.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/modifiercompiler.wordwrap.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/outputfilter.trimwhitespace.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/outputfilter.trimwhitespace.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/shared.escape_special_chars.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/shared.escape_special_chars.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/shared.literal_compiler_param.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/shared.literal_compiler_param.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/shared.make_timestamp.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/shared.make_timestamp.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/shared.mb_str_replace.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/shared.mb_str_replace.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/shared.mb_unicode.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/shared.mb_unicode.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/shared.mb_wordwrap.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/shared.mb_wordwrap.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/plugins/variablefilter.htmlspecialchars.php" afterPath="$PROJECT_DIR$/src/smarty/plugins/variablefilter.htmlspecialchars.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_cacheresource.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_cacheresource.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_cacheresource_custom.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_cacheresource_custom.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_cacheresource_keyvaluestore.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_data.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_data.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_block.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_block.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_cacheresource_file.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_cacheresource_file.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_append.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_append.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_assign.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_assign.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_block.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_block.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_break.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_break.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_call.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_call.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_capture.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_capture.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_config_load.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_config_load.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_continue.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_continue.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_debug.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_debug.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_eval.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_eval.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_extends.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_extends.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_for.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_for.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_foreach.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_foreach.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_function.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_function.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_if.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_if.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_include.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_include.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_include_php.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_include_php.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_insert.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_insert.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_ldelim.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_ldelim.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_make_nocache.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_make_nocache.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_nocache.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_nocache.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_block_plugin.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_block_plugin.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_foreachsection.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_foreachsection.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_function_plugin.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_function_plugin.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_modifier.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_modifier.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_object_block_function.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_object_block_function.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_object_function.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_object_function.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_php.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_php.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_print_expression.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_print_expression.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_registered_block.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_registered_block.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_registered_function.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_registered_function.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_private_special_variable.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_private_special_variable.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_rdelim.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_rdelim.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_section.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_section.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_setfilter.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_setfilter.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_shared_inheritance.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_shared_inheritance.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compile_while.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compile_while.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_compilebase.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_compilebase.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_config_file_compiler.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_config_file_compiler.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_configfilelexer.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_configfilelexer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_configfileparser.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_configfileparser.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_data.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_data.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_debug.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_debug.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_extension_clear.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_extension_clear.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_extension_handler.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_extension_handler.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_addautoloadfilters.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_addautoloadfilters.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_adddefaultmodifiers.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_adddefaultmodifiers.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_append.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_append.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_appendbyref.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_appendbyref.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_assignbyref.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_assignbyref.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_assignglobal.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_assignglobal.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_clearallassign.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_clearallassign.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_clearallcache.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_clearallcache.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_clearassign.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_clearassign.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_clearcache.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_clearcache.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_clearcompiledtemplate.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_clearcompiledtemplate.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_clearconfig.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_clearconfig.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_compileallconfig.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_compileallconfig.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_compilealltemplates.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_compilealltemplates.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_configload.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_configload.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_createdata.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_createdata.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_getautoloadfilters.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_getautoloadfilters.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_getconfigvars.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_getconfigvars.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_getdebugtemplate.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_getdebugtemplate.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_getdefaultmodifiers.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_getdefaultmodifiers.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_getglobal.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_getglobal.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_getregisteredobject.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_getregisteredobject.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_getstreamvariable.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_getstreamvariable.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_gettags.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_gettags.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_gettemplatevars.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_gettemplatevars.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_loadfilter.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_loadfilter.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_loadplugin.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_loadplugin.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_mustcompile.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_mustcompile.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_registercacheresource.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_registercacheresource.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_registerclass.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_registerclass.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_registerdefaultconfighandler.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_registerdefaultconfighandler.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_registerdefaultpluginhandler.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_registerdefaultpluginhandler.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_registerdefaulttemplatehandler.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_registerdefaulttemplatehandler.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_registerfilter.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_registerfilter.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_registerobject.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_registerobject.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_registerplugin.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_registerplugin.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_registerresource.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_registerresource.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_setautoloadfilters.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_setautoloadfilters.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_setdebugtemplate.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_setdebugtemplate.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_setdefaultmodifiers.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_setdefaultmodifiers.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_unloadfilter.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_unloadfilter.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_unregistercacheresource.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_unregistercacheresource.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_unregisterfilter.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_unregisterfilter.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_unregisterobject.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_unregisterobject.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_unregisterplugin.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_unregisterplugin.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_method_unregisterresource.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_method_unregisterresource.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_nocache_insert.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_nocache_insert.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_parsetree.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_parsetree.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_parsetree_code.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_parsetree_code.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_parsetree_dq.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_parsetree_dq.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_parsetree_dqcontent.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_parsetree_dqcontent.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_parsetree_tag.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_parsetree_tag.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_parsetree_template.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_parsetree_template.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_parsetree_text.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_parsetree_text.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_resource_eval.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_resource_eval.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_resource_extends.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_resource_extends.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_resource_file.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_resource_file.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_resource_php.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_resource_php.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_resource_registered.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_resource_registered.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_resource_stream.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_resource_stream.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_resource_string.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_resource_string.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_cachemodify.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_cachemodify.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_capture.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_capture.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_codeframe.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_codeframe.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_filterhandler.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_filterhandler.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_foreach.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_foreach.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_getincludepath.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_getincludepath.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_inheritance.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_inheritance.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_make_nocache.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_make_nocache.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_tplfunction.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_tplfunction.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_updatecache.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_updatecache.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_updatescope.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_updatescope.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_runtime_writefile.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_runtime_writefile.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_template.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_template.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_templatebase.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_templatebase.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_templatecompilerbase.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_templatecompilerbase.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_templatelexer.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_templatelexer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_templateparser.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_templateparser.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_testinstall.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_testinstall.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_internal_undefined.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_internal_undefined.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_resource.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_resource.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_resource_custom.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_resource_custom.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_resource_recompiled.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_resource_recompiled.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_resource_uncompiled.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_resource_uncompiled.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_security.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_security.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_template_cached.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_template_cached.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_template_compiled.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_template_compiled.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_template_config.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_template_config.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_template_resource_base.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_template_resource_base.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_template_source.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_template_source.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_undefined_variable.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_undefined_variable.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smarty_variable.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smarty_variable.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smartycompilerexception.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smartycompilerexception.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/php/smarty/sysplugins/smartyexception.php" afterPath="$PROJECT_DIR$/src/smarty/sysplugins/smartyexception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/articles.tpl" afterPath="$PROJECT_DIR$/templates/articles.tpl" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="95" />
+    <option name="y" value="7" />
+    <option name="width" value="733" />
+    <option name="height" value="653" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CMS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CMS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35186783-df31-429e-84ea-a970c8753a5e" name="Default" comment="" />
+      <created>1510163739355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510163739355</updated>
+      <workItem from="1510163740613" duration="57000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
